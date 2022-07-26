@@ -27,6 +27,11 @@ sudo ./install-3ds-touch-drivers-2022.sh
 sudo ./install-3ds-openhaptics-3.4.sh
 reboot
 ```
+若要卸载驱动，则执行
+```
+sudo ./uninstall-3ds-touch-drivers-2022.sh
+sudo ./uninstall-3ds-openhaptics-3.4.sh
+```
 
 # Touch的ROS代码编译
 
